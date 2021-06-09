@@ -1,6 +1,9 @@
 # TFTWoWPets
 Autochess with the wow pets. 
 
+You can try it out here:
+https://daniel-inigon.github.io/TFTWoWPets/
+
 I think this is what some of the fans of blizzard expected from them when auto chess genre became so popular. 
 So I created my own approach. This project does not meant to be a complete game, but a funny way to test the skills I've been learning so far.
 
